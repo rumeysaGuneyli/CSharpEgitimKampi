@@ -5,7 +5,8 @@ Bu depo, Murat Yücedağ'ın YouTube üzerinde yayınladığı C# Eğitim Kampı
 --Neler var?
 * Değişkenler
 * If-Else yapıları
-* Switch-Case 
+* Switch-Case
+* For-While Döngüleri
 * Ders videolarında yapılan uygulamalar 
 
 Videoları izledikçe burayı da güncelleyeceğim.
