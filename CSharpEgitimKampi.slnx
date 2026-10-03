@@ -2,4 +2,5 @@
   <Project Path="01_MainSubjects/01_MainSubjects.csproj" Id="32f0561e-7399-4eb3-9b56-3ad82e60e16c" />
   <Project Path="02_Variables/02_Variables.csproj" Id="ca406300-7c1d-4128-bb56-18da0713c168" />
   <Project Path="03_MakingDecision/03_MakingDecision.csproj" Id="68859f51-e22b-4f72-be2d-a99f750765b7" />
+  <Project Path="04_Loops/04_Loops.csproj" Id="d9d6ede1-5cd4-482c-97f5-377c7c43d6df" />
 </Solution>
